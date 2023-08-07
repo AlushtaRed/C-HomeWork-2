@@ -1,0 +1,15 @@
+C:\Users\ygari\Desktop\begining\bin\Debug\net6.0\begining.exe
+C:\Users\ygari\Desktop\begining\bin\Debug\net6.0\begining.deps.json
+C:\Users\ygari\Desktop\begining\bin\Debug\net6.0\begining.runtimeconfig.json
+C:\Users\ygari\Desktop\begining\bin\Debug\net6.0\begining.dll
+C:\Users\ygari\Desktop\begining\bin\Debug\net6.0\begining.pdb
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.csproj.AssemblyReference.cache
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.AssemblyInfoInputs.cache
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.AssemblyInfo.cs
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.csproj.CoreCompileInputs.cache
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.dll
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\refint\begining.dll
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.pdb
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\begining.genruntimeconfig.cache
+C:\Users\ygari\Desktop\begining\obj\Debug\net6.0\ref\begining.dll
